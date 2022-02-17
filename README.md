@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Francesco
 
-☁️ Cloud Computing Master Student at the University of Salerno.
+💻 Bachelor's Degree in Computer Science at the University of Salerno.
  
 🔨 I like to think about new projects to carry out.
 
