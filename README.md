@@ -30,10 +30,10 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=dark&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=gotham&hide_title=true)
 
 ### Most Used Languages
 <p align="left">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=dark&hide_title=true" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=gotham&hide_title=true" />
 </p>
