@@ -4,7 +4,7 @@
  
 🔨 <samp>I like to think about new projects to carry out.</samp>
 
-📚 <samp>I want to deepen my studies on Azure and AWS.</samp
+📚 <samp>I want to deepen my studies on Azure and AWS.</samp>
 
 👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
 
