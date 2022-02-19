@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Francesco
 
-💻 Bachelor's Degree in Computer Science at the University of Salerno.
+💻 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
  
-🔨 I like to think about new projects to carry out.
+🔨 <samp>I like to think about new projects to carry out.</samp>
 
-📚 I want to deepen my studies on Azure and AWS.
+📚 <samp>I want to deepen my studies on Azure and AWS.</samp
 
-👨🏻‍💻 I am passionate about cybersecurity.
+👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
 
 ### Languages I know
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -31,3 +31,9 @@
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=dark&hide_title=true)
+
+### Most Used Languages
+<p align="left">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=dark&hide_title=true" />
+</p>
