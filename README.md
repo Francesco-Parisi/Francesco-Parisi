@@ -6,7 +6,7 @@
 
 📚 <samp>I want to deepen my studies on Azure and Docker.</samp>
 
-🐧 Linux-addicted
+🐧 <samp>Linux-addicted.</samp>
 
 👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
 
