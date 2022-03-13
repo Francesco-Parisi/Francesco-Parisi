@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Francesco
 
-💻 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
+🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
  
 🔨 <samp>I like to think about new projects to carry out.</samp>
 
