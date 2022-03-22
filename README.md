@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=blue">
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> 
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/shell_script-333333?style=flat&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white">
 
 ### Technologies for development
 <img src="https://img.shields.io/badge/-React Native-333333?style=flat&logo=react"> <img src="https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo">
