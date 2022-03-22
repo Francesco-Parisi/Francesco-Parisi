@@ -1,37 +1,38 @@
-### Hi there 👋, I am Francesco
+## Hi there 👋, I am Francesco
 
-🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
- 
-🔨 <samp>I like to think about new projects to carry out.</samp>
-
-📚 <samp>I want to deepen my studies on Azure and Docker.</samp>
-
-🐧 <samp>Linux-addicted.</samp>
-
-👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
+- 🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
+- 🔨 <samp>I like to think about new projects to carry out.</samp>
+- 📚 <samp>I deepen my studies on Cloud Architectures, Microsoft Azure and Docker.</samp>
+- 🐧 <samp>Linux-addicted.</samp>
+- 👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
 
 
 ### Languages I know
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white">
+<img src ="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <img src = "https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C">
+<img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=blue">
+<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> 
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/shell_script-333333?style=flat&logo=gnu-bash&logoColor=white">
 
-### Tech & Tools Used
-<img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
+### Technologies for development
+<img src="https://img.shields.io/badge/-React Native-333333?style=flat&logo=react"> <img src="https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo">
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb">
+<img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
+<img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=%2361DAFB">
+
+### Tools Used
+<img src="https://img.shields.io/badge/-Unity%203D-333333?style=flat&logo=unity"> <img src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobexd">
+<img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse&logoColor=violet">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=blue">
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
 
 ### Cloud Platforms Used
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws&logoColor=orange"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure&logoColor=blue">
+<img src="https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud&logoColor=yellow">
+
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=gotham&hide_title=true)
 
