@@ -1,10 +1,14 @@
 ## Hi there 👋, I am Francesco
 
-- 🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
-- 🔨 <samp>I like to think about new projects to carry out.</samp>
-- 📚 <samp>I deepen my studies on Cloud Architectures, Microsoft Azure and Docker.</samp>
-- 🐧 <samp>Linux-addicted.</samp>
-- 👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
+🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
+
+🔨 <samp>I like to think about new projects to carry out.</samp>
+
+📚 <samp>I deepen my studies on Cloud Architectures, Microsoft Azure and Docker.</samp>
+
+🐧 <samp>Linux-addicted.</samp>
+
+👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
 
 
 ### Languages I know
