@@ -38,10 +38,10 @@
 <img src="https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud&logoColor=yellow">
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=gotham&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=github_dark&hide_title=true)
 
 ### Most Used Languages
 <p align="left">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=gotham&hide_title=true" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=github_dark&hide_title=true" />
 </p>
