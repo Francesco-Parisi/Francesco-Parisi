@@ -8,7 +8,7 @@
 
 🐧 <samp>Linux-addicted.</samp>
 
-👨🏻‍💻 <samp>I am passionate about cybersecurity.</samp>
+👨🏻‍💻 <samp>Passionate about cybersecurity.</samp>
 
 
 ### Languages I know
