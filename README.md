@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
 
 ### Cloud Platforms Used
-<img src="https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws&logoColor=orange"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure&logoColor=blue">
+<img src="https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon-aws&logoColor=orange"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure&logoColor=blue">
 <img src="https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud&logoColor=yellow">
 
 ### GitHub Stats
