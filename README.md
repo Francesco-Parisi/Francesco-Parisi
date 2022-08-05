@@ -37,6 +37,11 @@
 <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon-aws&logoColor=orange"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure&logoColor=blue">
 <img src="https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud&logoColor=yellow">
 
+### Operating Sistems Used
+<img src="https://img.shields.io/badge/Kali%20Linux-333333?style=flat&logo=kalilinux&logoColor=#268BEE"> <img src="https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=#0078D6">
+<img src="https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=#E95420">
+<img src="https://img.shields.io/badge/Cent%20OS-333333?style=flat&logo=centos&logoColor=#F0F0F0">
+
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=github_dark&hide_title=true)
 
