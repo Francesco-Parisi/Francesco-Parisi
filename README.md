@@ -8,21 +8,21 @@
 
 🐧 <samp>Linux-addicted.</samp>
 
-👨🏻‍💻 <samp>Passionate about cybersecurity.</samp>
+👨🏻‍💻 <samp>Passionate about cybersecurity and Penetration Testing.</samp>
 
 
-### Languages I know
+### Tech Stack
 <img src ="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <img src = "https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C">
 <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=blue">
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> 
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
 <img src="https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white">
-
-### Technologies for development
-<img src="https://img.shields.io/badge/-React Native-333333?style=flat&logo=react"> <img src="https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo">
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb">
 <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
+
+### Frameworks used for development
+<img src="https://img.shields.io/badge/-React Native-333333?style=flat&logo=react"> <img src="https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo">
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
 <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=%2361DAFB">
 
