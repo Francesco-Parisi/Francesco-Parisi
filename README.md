@@ -43,10 +43,12 @@
 <img src="https://img.shields.io/badge/Cent%20OS-333333?style=flat&logo=centos&logoColor=#F0F0F0">
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=github_dark&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=discord_old_blurple&hide_title=true)
 
 ### Most Used Languages
 <p align="left">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=github_dark&hide_title=true" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=discord_old_blurple&hide_title=true" />
 </p>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=FrancescoPa96)
