@@ -41,7 +41,7 @@
 ### Operating Sistems
 <img src="https://img.shields.io/badge/Kali%20Linux-333333?style=flat&logo=kalilinux&logoColor=#268BEE"> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Cent%20OS-002260?style=flat&logo=centos&logoColor=F0F0F0">
+<img src="https://img.shields.io/badge/CentOS-002260?style=flat&logo=centos&logoColor=F0F0F0">
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoPa96&show_icons=true&theme=discord_old_blurple&hide_title=true)
