@@ -51,5 +51,3 @@
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoPa96&langs_count=100&layout=compact&theme=discord_old_blurple&hide_title=true" />
 </p>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=FrancescoPa96)
