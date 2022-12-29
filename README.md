@@ -8,7 +8,7 @@
 
 🐧 <samp>Linux-addicted.</samp>
 
-👨🏻‍💻 <samp>Passionate about cybersecurity and Penetration Testing.</samp>
+👨🏻‍💻 <samp>Passionate about Cybersecurity and Penetration Testing.</samp>
 
 
 ### Tech Stack
