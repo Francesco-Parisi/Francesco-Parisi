@@ -2,14 +2,11 @@
 
 🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
 
-🔨 <samp>I like to think about new projects to carry out.</samp>
+🔨 <samp>I'm currently learning Cloud Computing at the University of Salerno.</samp>
 
 📚 <samp>I deepen my studies on Cloud Technologies and IT Security.</samp>
 
-🐧 <samp>Linux-addicted.</samp>
-
 👨🏻‍💻 <samp>Passionate about Cybersecurity and Penetration Testing.</samp>
-
 
 ### Tech Stack
 <img src ="https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-%231572B6.svg?style=&logo=css3&logoColor=white">
@@ -20,7 +17,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white">
 
-### Frameworks for development
+### Frameworks for Development
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
 
