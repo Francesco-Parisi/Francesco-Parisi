@@ -4,7 +4,7 @@
 
 🔨 <samp>I'm currently learning Cloud Computing at the University of Salerno.</samp>
 
-📚 <samp>I deepen my studies on Cloud Technologies and IT Security.</samp>
+📚 <samp>I am deepening my studies on Cloud Technologies and IT Security in order to stay up-to-date and tackle complex challenges.</samp>
 
 👨🏻‍💻 <samp>Passionate about Cybersecurity and Penetration Testing.</samp>
 
