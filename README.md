@@ -1,4 +1,4 @@
-## Hi there 👋, I am Francesco
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Francesco!
 
 🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
 
