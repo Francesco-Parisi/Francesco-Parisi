@@ -6,7 +6,7 @@
 
 📚 <samp>I am deepening my studies on Cloud Technologies and IT Security in order to stay up-to-date and tackle complex challenges.</samp>
 
-👨🏻‍💻 <samp>Passionate about Cybersecurity and Penetration Testing.</samp>
+👨🏻‍💻 <samp>Passionate about Cybersecurity, Cloud Security and Penetration Testing.</samp>
 
 ### Tech Stack
 <img src ="https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-%231572B6.svg?style=&logo=css3&logoColor=white">
