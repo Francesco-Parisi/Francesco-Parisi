@@ -25,10 +25,11 @@
 <img src="https://img.shields.io/badge/-Unity%203D-333333?style=flat&logo=unity"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=orange">
 
 ### Cloud Platforms
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white">
@@ -38,8 +39,8 @@
 <img src="https://img.shields.io/badge/Kali%20Linux-333333?style=flat&logo=kalilinux&logoColor=#268BEE"> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/CentOS-002260?style=flat&logo=centos&logoColor=F0F0F0">
+<img src="https://img.shields.io/badge/RaspberryPi OS-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white">
 
-### GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Francesco-Parisi&&show_icons=true&theme=dark&rank_icon=github&hide_title=true)
 
 ### Most Used Languages
