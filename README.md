@@ -1,4 +1,7 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Francesco!
+<!-- Header -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=600&lines=Hi%20there%20%F0%9F%91%8B%2C%20I'm%20Francesco!" alt="Typing SVG" />
+</p>
 
 🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno.</samp>
 
