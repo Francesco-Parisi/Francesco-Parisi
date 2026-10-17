@@ -104,10 +104,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francesco-Parisi/Francesco-Parisi/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francesco-Parisi/Francesco-Parisi/output/github-snake.svg">
-  <img alt="Contribution grid being scanned" src="https://raw.githubusercontent.com/Francesco-Parisi/Francesco-Parisi/output/github-snake-dark.svg" width="100%">
 </picture>
-
-<sub><code>collect › validate › correlate › intel</code></sub>
 
 </div>
 
