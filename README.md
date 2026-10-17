@@ -109,8 +109,3 @@
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="">
-
-<p align="center">
-  <a href="https://it.linkedin.com/in/francesco-parisi-26a60a231"><img src="https://img.shields.io/badge/LinkedIn-0d131b?style=for-the-badge&logoColor=4cc2ff" alt="LinkedIn"></a>
-  <a href="https://github.com/Francesco-Parisi?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-0d131b?style=for-the-badge&logo=github&logoColor=4cc2ff" alt="All repositories"></a>
-</p>
