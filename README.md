@@ -8,7 +8,7 @@
 
 🐍 <samp>I write Python scripts to automate collection, correlation and leak hunting, and turn raw findings into clear, verifiable evidence.</samp>
 
-🎓 <samp>Master's and Bachelor's Degree in Computer Science at the University of Salerno, with a focus on Cloud Computing.</samp>
+🎓 <samp>Bachelor's Degree in Computer Science at the University of Salerno, with a focus on Cloud Computing.</samp>
 
 📚 <samp>Deepening my knowledge in Cloud Technologies and IT Security to stay up-to-date and tackle complex challenges.</samp>
 
